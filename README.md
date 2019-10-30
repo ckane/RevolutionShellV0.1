@@ -1,5 +1,5 @@
 # RevolutionShell
-Backdoor Write in C/CPP and Listener in Python
+Backdoor For Windows Target Write in C/CPP and Listener in Python
 
 
 ## requirements:
